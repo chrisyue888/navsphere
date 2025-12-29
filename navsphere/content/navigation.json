@@ -156,6 +156,14 @@
           "href": "https://pagespeed.web.dev/",
           "description": "",
           "icon": "/assets/favicon_1765687105275.webp"
+        },
+        {
+          "id": "site_1767027440601_xil4lx63y",
+          "title": "Baidu",
+          "href": "https://www.baidu.com/",
+          "description": "访问 www.baidu.com",
+          "icon": "/assets/favicon_1767027433160.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
